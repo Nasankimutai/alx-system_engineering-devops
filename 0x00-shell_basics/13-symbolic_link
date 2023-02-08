@@ -1,4 +1,4 @@
 #!/bin/bash
-13-symbolic_link
+ln -s /bin/_ls_
 
 
