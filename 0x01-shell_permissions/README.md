@@ -1,3 +1,1 @@
-The file hello will be in the working directory
-
-The file olleh will be in the working directory
+Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
