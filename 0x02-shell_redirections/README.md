@@ -1,1 +1,1 @@
-18-letteronly
+ A to Z
