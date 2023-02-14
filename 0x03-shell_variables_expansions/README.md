@@ -1,1 +1,1 @@
-Write a script that displays the result of BREATH to the power LOVE
+7-create_global_variable
