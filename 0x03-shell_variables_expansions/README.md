@@ -1,1 +1,1 @@
-7-create_global_variable
+Create a script that creates a new local variable
