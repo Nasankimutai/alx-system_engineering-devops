@@ -1,1 +1,1 @@
-Write a script that prints a number with two decimal place
+7-create_global_variable
