@@ -1,1 +1,1 @@
-tr A-Za-z N-ZA-Mn-za-m
+Write a script that prints every other line from the input starting with the first line
